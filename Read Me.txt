@@ -1,0 +1,10 @@
+Guidens:
+
+If you use the command prompt mode, execute the "CricketGame.java" class and proceed.
+If you use the netbeans project mode run the "CricketGame.java" class and proceed.
+
+In the game, you are playing both team.
+
+This game was developed to paly with the keyboard numpad. So please remember to 
+keep the numpad on during the play.
+
