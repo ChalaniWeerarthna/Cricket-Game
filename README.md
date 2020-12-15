@@ -2,6 +2,7 @@
 This is a simple program to model and implement a cricket game using JAVA OOP concepts and data structures. 
 
 #Rules of the games are as follows:
+
 ● Two teams, 6 players per team
 ● Everyone can ball and bat
 ● Runs can be 0, 1, 2, 3, 4, 6
